@@ -1,4 +1,4 @@
-//1)..program to divide two numbers.
+//1)..program to divide two numbers..
 #include<stdio.h>
 int Divide(int iNo1,int iNo2)
 
